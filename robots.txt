@@ -1,0 +1,12 @@
+# Robots.txt for Alimentos Don Horacio
+# https://batusaix23.github.io/dhweb/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://batusaix23.github.io/dhweb/sitemap.xml
+
+# Disallow unnecessary files
+Disallow: /.git/
+Disallow: /nuevo/
