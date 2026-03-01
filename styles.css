@@ -811,7 +811,7 @@ ul {
 
 .churros-gallery .gallery-item img {
     object-fit: contain;
-    background: var(--gray-900);
+    background: #000000;
 }
 
 .churros-gallery .gallery-item.large img,
