@@ -671,14 +671,14 @@ ul {
 }
 
 .brand-card-logo {
-    margin-bottom: 20px;
+    margin-bottom: 24px;
     height: auto;
     display: flex;
     align-items: center;
 }
 
 .brand-card-logo img {
-    height: 80px;
+    height: 120px;
     width: auto;
     max-width: 100%;
     object-fit: contain;
@@ -755,11 +755,11 @@ ul {
 }
 
 .product-logo {
-    margin-top: 28px;
+    margin-top: 32px;
 }
 
 .product-logo img {
-    height: 90px;
+    height: 130px;
     width: auto;
     max-width: 100%;
     object-fit: contain;
