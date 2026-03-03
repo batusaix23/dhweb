@@ -136,20 +136,24 @@ ul {
     align-items: center;
 }
 
+.nav-logo {
+    margin-right: auto;
+}
+
 .nav-logo-img {
-    height: 60px;
+    height: 75px;
     width: auto;
-    max-width: 240px;
+    max-width: 280px;
     transition: var(--transition);
     object-fit: contain;
     border-radius: var(--radius);
-    padding: 6px 10px;
+    padding: 8px 12px;
     background: rgba(255,255,255,0.95);
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
 .navbar.scrolled .nav-logo-img {
-    height: 55px;
+    height: 65px;
     background: var(--white);
     box-shadow: none;
 }
@@ -1573,13 +1577,14 @@ ul {
 }
 
 .footer-logo-img {
-    height: 70px;
+    height: 90px;
     width: auto;
-    max-width: 220px;
-    margin-bottom: 20px;
-    border-radius: var(--radius-sm);
+    max-width: 300px;
+    margin-bottom: 24px;
+    margin-left: 20px;
+    border-radius: var(--radius);
     background: var(--white);
-    padding: 8px;
+    padding: 10px 14px;
 }
 
 .footer-brand p {
